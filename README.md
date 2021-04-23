@@ -1,3 +1,3 @@
 # Todo-app
 
-A todo application
+A todo application - add and remove items
